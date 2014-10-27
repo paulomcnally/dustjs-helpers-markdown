@@ -5,7 +5,7 @@ Parse markdown content on KrakenJS views
 
 [![KrakenJS Logo](http://krakenjs.com/img/kraken.svg)](http://krakenjs.com/)
 
-#Install dependencie
+#Install dependence
 
     npm install dustjs-helpers-markdown --save
 
