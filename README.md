@@ -50,7 +50,7 @@ Parse markdown content on KrakenJS views
         }
       },
 
-### On youre view
+### On the view
 
     <div>
     {@markdown}
