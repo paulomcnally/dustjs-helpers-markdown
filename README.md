@@ -1,7 +1,7 @@
 dustjs-helpers-markdown
 =======================
 
-Parse markdown content on KrakenJS views
+Helpers Markdown for dustjs-linkedin package
 
 [![KrakenJS Logo](http://krakenjs.com/img/kraken.svg)](http://krakenjs.com/)
 
